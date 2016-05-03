@@ -53,5 +53,6 @@ public class MovimentoFinanceiroTest {
 	@Test(expected=IllegalArgumentException.class)
 	public void calculaJurosExceptionTest() {
 		mf.calculaJuros(0);
-	}	
+	}
+	
 }
