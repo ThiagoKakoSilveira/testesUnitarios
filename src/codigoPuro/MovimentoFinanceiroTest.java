@@ -10,6 +10,7 @@ import org.junit.Test;
 
 public class MovimentoFinanceiroTest {
 	public static MovimentoFinanceiro mf = new MovimentoFinanceiro();
+	//Teste sem Mock
 
 	@Before
 	public void setUp() throws Exception {

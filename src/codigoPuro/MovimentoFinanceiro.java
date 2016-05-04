@@ -5,6 +5,7 @@ import java.util.Date;
 
 @SuppressWarnings("serial")
 public class MovimentoFinanceiro implements java.io.Serializable{
+	//Clase com padrão POJO
 	
 	private int cliente;
 	private LocalDate dataVencimento;
